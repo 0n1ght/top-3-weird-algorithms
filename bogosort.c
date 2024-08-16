@@ -3,6 +3,7 @@
 // Quantum Bogosort takes it a step further by introducing quantum uncertainty into the mix.
 // While it’s far from practical, this algorithm showcases the playful side of quantum computing.
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
